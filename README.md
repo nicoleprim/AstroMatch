@@ -1,4 +1,4 @@
-![Logo](.././img-readme/Logo.png)
+![Logo](./astromatch/./img-readme/Logo.png)
 
 # Acesse o site:
 
