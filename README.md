@@ -16,7 +16,7 @@ A Logo foi feita no Canva.
 
 A paleta de cores foi escolhida de acordo com a logo:
 
-![Paleta](./img-readme/paleta.png)
+![Paleta](./astromatch/./img-readme/paleta.png)
 
 ## Tecnologias utilizadas:
 
@@ -28,10 +28,10 @@ A paleta de cores foi escolhida de acordo com a logo:
 
 ## Imagens:
 
-![Perfis](./img-readme/perfis.png)
-![Matches](./img-readme/matches.png)
-![Match](./img-readme/match.png)
-![Clear](./img-readme/limpar.png)
-![Loading](./img-readme/loading.png)
+![Perfis](./astromatch/./img-readme/perfis.png)
+![Matches](./astromatch/./img-readme/matches.png)
+![Match](./astromatch/./img-readme/match.png)
+![Clear](./astromatch/./img-readme/limpar.png)
+![Loading](./astromatch/./img-readme/loading.png)
 
 ## Desenvolvido por Nicole Prim
